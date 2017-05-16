@@ -4,16 +4,22 @@ You can use the [editor on GitHub](https://github.com/k2hawk10/ios-course-super-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Embrace.io Documentation
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Getting Started
+## Product
+## Easy Integration
+
+# Dashboard
+## Issue List
+### default moment: startup moment
+### network request logs
+### Custom moments
 
 - Bulleted
 - List
